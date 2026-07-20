@@ -93,8 +93,14 @@ Result saved in portfolio.txt
 
 ---
 
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
 ## 👨‍💻 Author
 
 **Rudransh Thakre**
 
-CodeAlpha Python Programming Internship
+If you like this project, don't forget to ⭐ the repository!
